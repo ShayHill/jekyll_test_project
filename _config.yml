@@ -1,3 +1,6 @@
+url: 'https://shayhill.github.io'
+baseurl: '/jekyll_test_project'
+
 collections:
   authors:
     output: true
